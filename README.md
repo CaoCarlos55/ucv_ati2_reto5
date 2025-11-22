@@ -29,50 +29,50 @@ Recomendaciones para un Colega, si piensas realizar este laboratorio, te dejo es
 ### Evidencias
 
 **Configuración inicial y creación del proyecto Spring Boot con Gradle en IntelliJ:**
-![img-1](./img/Reto5-1.png)
+![img-1](img/Reto5-1.png)
 
 **Carga de dependencias en build.gradle y construcción exitosa del proyecto:**
-![img-2](./img/Reto5-2.png)
+![img-2](img/Reto5-2.png)
 
 **Implementación de la clase CategoryController con los endpoints básicos /hello y /categories:**
-![img-3](./img/Reto5-3.png)
+![img-3](img/Reto5-3.png)
 
 **Primera ejecución exitosa de las pruebas unitarias para los métodos básicos:**
-![img-4](./img/Reto5-4.png)
+![img-4](img/Reto5-4.png)
 
 **Log de consola confirmando "BUILD SUCCESSFUL" tras la ejecución de los tests:**
-![img-5](./img/Reto5-5.png)
+![img-5](img/Reto5-5.png)
 
 **Reporte HTML generado por Gradle mostrando un 100% de éxito en las pruebas:**
-![img-6](./img/Reto5-6.png)
+![img-6](img/Reto5-6.png)
 
 **Modificación intencional del código (cambio a "Hola") para provocar un fallo en el test:**
-![img-7](./img/Reto5-7.png)
+![img-7](img/Reto5-7.png)
 
 **Visualización del fallo del test detectando la discrepancia entre el valor esperado y el actual:**
-![img-8](./img/Reto5-8.png)
+![img-8](img/Reto5-8.png)
 
 **Reporte HTML actualizando el estado a 50% de éxito debido al error inducido:**
-![img-9](./img/Reto5-9.png)
+![img-9](img/Reto5-9.png)
 
 **Implementación del test avanzado verificando la lista de categorías, IDs y descripciones:**
-![img-10](./img/Reto5-10.png)
+![img-10](img/Reto5-10.png)
 
 **Ejecución del test con el coverage para visualizar las clases:**
-![img-12](./img/Reto5-12.png)
+![img-12](img/Reto5-12.png)
 
 **Modificación con el try - catch y ejecución de la prueba:**
-![img-13](./img/Reto5-13.png)
+![img-13](img/Reto5-13.png)
 
 **Visualización de la prueba anterior, la nueva duración despues de la modificación:**
-![img-14](./img/Reto5-14.png)
+![img-14](img/Reto5-14.png)
 
 **Reporte final de Gradle con el coverage:**
-![img-15](./img/Reto5-15.png)
+![img-15](img/Reto5-15.png)
 
 **Modifique la función de "Hello" para que la ejecución final sea exitosa en todas las pruebas unitarias con el Mockito configurado**
-![img-16](./img/Reto5-16.png)
+![img-16](img/Reto5-16.png)
 
 **Añadiendo las dos nuevas pruebas solicitadas en el reto**
-![img-17](./img/Reto5-17.png)
+![img-17](img/Reto5-17.png)
 
